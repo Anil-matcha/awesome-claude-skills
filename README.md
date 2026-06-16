@@ -110,7 +110,7 @@ Skills for working with complex file formats:
   - Install from `superpowers-marketplace` plugin
 
 - **[SamurAIGPT/Generative-Media-Skills](https://github.com/SamurAIGPT/Generative-Media-Skills)** - Multi-modal generative media skills for AI agents (Claude Code, Cursor, Gemini CLI). 100+ AI models for image, video, and audio — FLUX, Midjourney, Veo3, Kling, Suno, and more. Includes expert library skills for Cinema Director, UI Designer, Logo Creator, and Nano-Banana image generation.
-  - Powered by [muapi.ai](https://muapi.ai) and [muapi-cli](https://github.com/SamurAIGPT/muapi-cli)
+  - Powered by [muapi.ai](https://muapi.ai?utm_source=github&utm_medium=readme&utm_campaign=awesome-claude-skills) and [muapi-cli](https://github.com/SamurAIGPT/muapi-cli)
   - Install: `/plugin marketplace add SamurAIGPT/Generative-Media-Skills`
 
 
